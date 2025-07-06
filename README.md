@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 3D Computer Vision.
+- 📫 How to reach me: preacher@sjtu.edu.cn
+- 🚙 Find me [here](northpointer.xyz).
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
 
@@ -82,5 +86,4 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-- 🔭 I’m currently working on 3D Computer Vision.
-- 📫 How to reach me: preacher@sjtu.edu.cn
+
